@@ -222,6 +222,7 @@ Colab disconnects, so every embedding and OCR script writes its cache as it goes
 |---|---|
 | [`notebooks/Legal2B_Group_Notebook.ipynb`](notebooks/Legal2B_Group_Notebook.ipynb) | Start here. Loads the dataset with the shared loader and previews a document |
 | [`notebooks/Label_EDA_and_Scope.ipynb`](notebooks/Label_EDA_and_Scope.ipynb) | Label parsing, missingness checks, class counts, and the scope policy, with every number in `docs/scope_policy.md` reproduced |
+| [`Legal2B_Group_Notebook_embedding+OCR.ipynb`](Legal2B_Group_Notebook_embedding+OCR.ipynb) | Colab walkthrough: loads the data, then compares vision embedding models on the legal types with an OCR text channel alongside |
 
 ---
 
